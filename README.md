@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on graduate project (AP) for SPŠST Panska
 - 🌱 I’m currently learning C++, Python and Swift
 <!-- 👯 I’m looking to collaborate on ... 
