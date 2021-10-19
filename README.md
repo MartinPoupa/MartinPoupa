@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on graduate project (AP) for SPŠST Panska
-- 🌱 I’m currently learning C++, Python and Swift
+- 🌱 I’m currently learning C, C++, Python and Swift
 - 🤔 I’m looking for help with Docker
 <!-- 👯 I’m looking to collaborate on ... -->
 
