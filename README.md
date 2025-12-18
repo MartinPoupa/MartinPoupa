@@ -1,13 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on graduate project (AP) for SPŠST Panska
-- 🌱 I’m currently learning C, C++, Python and Swift
-- 🤔 I’m looking for help with Docker
-<!-- 👯 I’m looking to collaborate on ... -->
+- 🔭 I am currently working on my master's degree at FEL ČVYT.
+- 🌱 I’m currently learning C, C++, Python
+- 🤔 I’m looking for help with xilinx
 
-<!-- - 💬 Ask me about programing
- - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
 
